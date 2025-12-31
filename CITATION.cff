@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or architecture in your research, please cite it as follows."
+authors:
+  - family-names: "Thottiyil Mohan"
+    given-names: "Deepak"
+title: "The Helical Engine: A Solvency-Based Governance Architecture"
+version: 1.0.0
+date-released: 2025-12-31
+repository-code: "https://github.com/yourusername/helical-engine"
+identifiers:
+  - type: other
+    value: "Patent Pending U.S. 63/951,535"
+    description: "United States Patent and Trademark Office"
