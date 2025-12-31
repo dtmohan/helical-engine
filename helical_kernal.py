@@ -1,7 +1,3 @@
-Based on the theoretical framework and our iterative development, here is the **Helical Engine v3.1: Comprehensive Threat Defense**.
-
-This single file integrates defenses against **7 distinct Attack Vectors**, covering structural, semantic, and economic threats. It operationalizes the "Physics of Trust" (Equation 1) to naturally dampen these attacks.
-
 ### **The Helical Engine v3.1 (Reference Implementation)**
 
 ```python
